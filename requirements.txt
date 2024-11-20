@@ -1,0 +1,11 @@
+streamlit
+pypdf2
+pypdf
+langchain
+langchain-openai 
+langchain_community
+openai 
+python-dotenv
+pydantic 
+psycopg2-binary 
+pgvector

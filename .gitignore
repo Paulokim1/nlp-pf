@@ -1,0 +1,6 @@
+.env 
+
+raw_data/*
+postgres/
+__pycache__/
+env/
